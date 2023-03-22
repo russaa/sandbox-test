@@ -17,11 +17,14 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+**Related Issues (remove if not applicable)**
+Please reference related issues here (if a duplicate issues exist, consider posting to that issue instead of opening a new one).
+
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain your problem (add images per drag & drop).
 
 **Desktop (please complete the following information if applicable, otherwise remove):**
  - OS: [e.g. MacOS, Windows, Linux, ...]
