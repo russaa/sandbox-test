@@ -28,14 +28,14 @@ Steps to reproduce the behavior:
 
 **Desktop (please complete the following information if applicable, otherwise remove):**
  - OS: [e.g. MacOS, Windows, Linux, ...]
- - Browser [e.g. Firefox, Chrome, Safari, Microsoft Edge, ...]
- - Version [e.g. 22]
+ - Browser: [e.g. Firefox, Chrome, Safari, Microsoft Edge, ...]
+ - Version: [e.g. 22]
 
 **Smartphone (please complete the following information if applicable, otherwise remove):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1, Android 12, ...]
- - Browser [e.g. stock browser, Firefox, Chrome, Safari, ...]
- - Version [e.g. 22]
+ - Browser: [e.g. stock browser, Firefox, Chrome, Safari, ...]
+ - Version: [e.g. 22]
 
 **Additional context**
 <!-- Add any other context about the problem here. -->
