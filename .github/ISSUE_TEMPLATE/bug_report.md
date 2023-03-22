@@ -38,4 +38,4 @@ Steps to reproduce the behavior:
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
